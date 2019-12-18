@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+
+    <color name="green">#3BD81B</color>
+    <color name="red">#D81B60</color>
+
+    <color name="black">#6E6464</color>
+    <color name="cheng">#E0BE94</color>
+
+
+    <color name="hui">#F1F2F6</color>
+
+
+
+</resources>
